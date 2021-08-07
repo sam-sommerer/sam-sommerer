@@ -1,6 +1,6 @@
-### Hi there! I'm Sam 👋
+# Hi there! I'm Sam 👋
 
-I'm a Class of 2023 undergrad at USC studying CS. My main interests are AI/ML and cybersecurity, as well as how those two areas intersect! 
+I'm a Presidential Scholar at USC (class of 2023) studying CS. My main interests are AI/ML and cybersecurity, as well as how those two areas intersect!
 
 ## 💻 What I'm doing
 - VP of Projects at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
@@ -10,6 +10,7 @@ I'm a Class of 2023 undergrad at USC studying CS. My main interests are AI/ML an
 
 ## What I've done
 - Adversarial attacks on autonomous vehicles and computer vision at MITRE 🚙
+- Automatic detection of phishing links using ML 🔗
 - NLP for genomics and ethical AI at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
 - Object detection for Kaggle competition <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="30em" align="center" alt="Kaggle" title="Kaggle"/>
 - Bioinformatics and population genetics at the [Chiang Lab](https://chianglab.usc.edu/) 🧬
