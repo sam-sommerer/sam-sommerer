@@ -8,7 +8,7 @@ I'm a Presidential Scholar at USC (class of 2023) studying CS. My main interests
 - Research at the [ICAROS Lab](https://icaros.usc.edu/) 🤖
 
 
-## What I've done
+## 🔍 What I've done
 - Adversarial attacks on autonomous vehicles and computer vision at MITRE 🚙
 - Automatic detection of phishing links using ML 🔗
 - NLP for genomics and ethical AI at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
