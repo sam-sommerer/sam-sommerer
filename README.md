@@ -16,6 +16,13 @@ I'm a Class of 2023 undergrad at USC studying CS. My main interests are AI/ML an
 <img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></p>
+(and more)
+
+## What I've done
+- Adversarial attacks on autonomous vehicles and computer vision at MITRE 🚙
+- NLP for genomics and ethical AI at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
+- Object detection for Kaggle competition <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="30em" align="center" alt="Kaggle" title="Kaggle"/>
+- Bioinformatics and population genetics at the [Chiang Lab](https://chianglab.usc.edu/) 🧬
 
 <!--
 **sam-sommerer/sam-sommerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
