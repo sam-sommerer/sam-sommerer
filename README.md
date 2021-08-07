@@ -5,6 +5,8 @@ I'm a Class of 2023 undergrad at USC studying CS. My main interests are AI/ML an
 ## 💻 What I'm doing
 - VP of Projects at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
 - Lead of Google Developer Student Clubs USC [<img src="https://dscfau.com/static/media/logo.ade0843b.png" height="30em" align="center" alt="GDSC" title="GDSC"/>](https://developers.google.com/community/dsc)
+- Research at the [ICAROS Lab](https://icaros.usc.edu/) 🤖
+
 <!--
 **sam-sommerer/sam-sommerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
