@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Sam 👋
 
+I'm a Class of 2023 undergrad at USC studying CS. My main interests are AI/ML and cybersecurity, as well as how those two areas intersect! 
+
+## 💻 What I'm doing
+- VP of Projects at [CAIS++](https://caisplusplus.usc.edu/)
+- Lead of Google Developer Student Clubs USC [<img src="https://dscfau.com/static/media/logo.ade0843b.png" height="30em" align="center" alt="GDSC" title="GDSC"/>](https://developers.google.com/community/dsc)
 <!--
 **sam-sommerer/sam-sommerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
