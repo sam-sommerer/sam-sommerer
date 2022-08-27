@@ -5,7 +5,7 @@ I'm a Presidential Scholar at USC (class of 2023) studying CS. My main interests
 ## 💻 What I'm doing
 - VP of Projects at CAIS++ [<img src="https://pbs.twimg.com/profile_images/892913617573523456/K22Jjs3q.jpg" height="30em" align="center" alt="CAIS++" title="CAIS++"/>](https://caisplusplus.usc.edu/)
 - Lead of Google Developer Student Clubs USC [<img src="https://dscfau.com/static/media/logo.ade0843b.png" height="30em" align="center" alt="GDSC" title="GDSC"/>](https://developers.google.com/community/dsc)
-- Research at the [ICAROS Lab](https://icaros.usc.edu/) 🤖
+- Research at the [INK Lab](https://inklab.usc.edu/) 🤖
 
 
 ## 🔍 What I've done
