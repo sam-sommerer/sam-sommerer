@@ -1,6 +1,6 @@
 # Hi there! I'm Sam 👋
 
-## I'm a undergraduate studying Computer Science at USC. Take a peek at my resume [here](https://drive.google.com/file/d/1ZsUMCXmXazZhe4X4wHl9dMx0i25bci2D/view?usp=sharing) 👀
+## I'm a Master's student studying Computer Science at USC, having graduated with a BS in CS also from USC in Spring 2023. Take a peek at my resume [here](https://drive.google.com/file/d/1ZsUMCXmXazZhe4X4wHl9dMx0i25bci2D/view?usp=sharing) 👀
 
 
 
